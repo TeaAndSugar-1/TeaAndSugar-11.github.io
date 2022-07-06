@@ -388,7 +388,7 @@ var SendMail = function () {
         });
     } else
     {
-        alert('Your email is not in valid format');
+        alert('Your email is not in valid formation');
     }
 
 
