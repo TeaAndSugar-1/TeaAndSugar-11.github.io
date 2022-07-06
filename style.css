@@ -260,7 +260,7 @@ body a:hover
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(demo-images/background_img_01b.jpg); 
+    background-image:url(demo-images/background_space_01a.jpg); 
     background-repeat: repeat; 
     background-position: center top; 
     background-size: cover;
@@ -317,18 +317,18 @@ h1.big-title
 
 #services
 {
-    background-color: #221c5a;
+    background-color: #000000;
     z-index: 9;
 }
 
 #services .section-title-holder
 {
-    background-color: #32DB8A
+    background-color: #000000
 }
 
 #services .section-title-holder span
 {
-    color: #55B286;
+    color: #32DB8A;
 }
 
 .service-holder 
@@ -367,8 +367,8 @@ h1.big-title
 
 #portfolio
 {
-    background-color: #221C5A; 
-    background-image: url("demo-images/background_img_02.jpg"); 
+    background-color: #000000; 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto;
@@ -382,7 +382,7 @@ h1.big-title
 
 #portfolio .section-title-holder span
 {
-    color: #e3a436;
+    color: #32DB8A;
 }
 
 .page-template-page-portfolio .section
@@ -535,7 +535,7 @@ h1.big-title
 
 .grid-item a:hover
 {
-    color: #191919;
+    color: #000000;
 }
 
 .more-posts-portfolio img
@@ -565,7 +565,7 @@ div.pp_default .pp_loaderIcon
 #about
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_03.jpg"); 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -574,12 +574,12 @@ div.pp_default .pp_loaderIcon
 
 #about .section-title-holder
 {
-    background-color: #e64b77;
+    background-color: #000000;
 }
 
 #about .section-title-holder span
 {
-    color: #b24564;
+    color: #32DB8A;
 }
 
 #about .section-content-holder
@@ -640,7 +640,7 @@ div.pp_default .pp_loaderIcon
 #news
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_04.jpg"); 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center center; 
     background-size: cover; 
@@ -751,7 +751,7 @@ div.pp_default .pp_loaderIcon
 #video
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_06.jpg"); 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: repeat-x; 
     background-position: center center; 
     background-size: auto; 
@@ -765,7 +765,7 @@ div.pp_default .pp_loaderIcon
 
 #video .section-title-holder span
 {
-    color: #e3a436;
+    color: #32DB8A;
 }
 
 #video .section-content-holder
@@ -810,8 +810,8 @@ a.video-popup-holder:hover img.popup-play
 
 #skills
 {
-    background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/item_background_01.jpg"); 
+    background-color: rgb(0, 0, 0); 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: left top; 
     background-size: 100%; 
@@ -888,8 +888,8 @@ a.video-popup-holder:hover img.popup-play
 
 #contact
 {
-    background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_05b.jpg"); 
+    background-color: rgb(0, 0, 0); 
+    background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto; 
@@ -903,7 +903,7 @@ a.video-popup-holder:hover img.popup-play
 
 #contact .section-title-holder span
 {
-    color: #b24564;
+    color: #000000;
 }
 
 #contact .section-content-holder
@@ -1110,7 +1110,7 @@ footer
 #portfolio-1
 {
     background-color: #221c5a;
-    background-image:url("demo-images/background_img_05b.jpg"); 
+    background-image:url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto; 
@@ -1120,7 +1120,7 @@ footer
 {
 
     background-color: #221c5a;
-    background-image: url(demo-images/item_background_01.jpg);
+    background-image: url(demo-images/background_black_01b.jpg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 100% auto;
