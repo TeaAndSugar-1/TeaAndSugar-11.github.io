@@ -27,7 +27,7 @@ body a:hover
     width: 100%;
     height: 100%;
     z-index: 99999;	
-    background-color: #000000;
+    background-color: #5b5b5b;
 }
 
 .doc-loader td 
@@ -68,7 +68,7 @@ body a:hover
 {    
     transition: background-color .2s linear;
     z-index: 99 !important;
-    background-color: #000000;
+    background-color: #5b5b5b;
     width: 100% !important;
     top: 0;
     position: fixed;
@@ -149,7 +149,7 @@ body a:hover
 
 .section-title-holder
 {
-    background-color: #32DB8A;
+    background-color: #221c5a;
     width: 370px;
     height: 370px;    
     z-index: 2;
@@ -259,7 +259,7 @@ body a:hover
 {
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
-    background-color: #000000; 
+    background-color: #5b5b5b; 
     background-image:url(demo-images/background_space_01a.jpg); 
     background-repeat: repeat; 
     background-position: center top; 
@@ -317,18 +317,18 @@ h1.big-title
 
 #services
 {
-    background-color: #000000;
+    background-color: #5b5b5b;
     z-index: 9;
 }
 
 #services .section-title-holder
 {
-    background-color: #000000
+    background-color: #5b5b5b
 }
 
 #services .section-title-holder span
 {
-    color: #000000;
+    color: #5b5b5b;
 }
 
 .service-holder 
@@ -367,7 +367,7 @@ h1.big-title
 
 #portfolio
 {
-    background-color: #000000; 
+    background-color: #5b5b5b; 
     background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
@@ -535,7 +535,7 @@ h1.big-title
 
 .grid-item a:hover
 {
-    color: #000000;
+    color: #5b5b5b;
 }
 
 .more-posts-portfolio img
@@ -564,7 +564,7 @@ div.pp_default .pp_loaderIcon
 
 #about
 {
-    background-color: #000000; 
+    background-color: #5b5b5b; 
     background-image: url("demo-images/background_black_01b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
@@ -574,12 +574,12 @@ div.pp_default .pp_loaderIcon
 
 #about .section-title-holder
 {
-    background-color: #000000;
+    background-color: #5b5b5b;
 }
 
 #about .section-title-holder span
 {
-    color: #000000;
+    color: #5b5b5b;
 }
 
 #about .section-content-holder
@@ -903,7 +903,7 @@ a.video-popup-holder:hover img.popup-play
 
 #contact .section-title-holder span
 {
-    color: #000000;
+    color: #5b5b5b;
 }
 
 #contact .section-content-holder
